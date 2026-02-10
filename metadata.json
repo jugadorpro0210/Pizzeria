@@ -1,0 +1,5 @@
+{
+  "name": "Pizzas Virtuales OS",
+  "description": "Un sistema operativo de punto de venta y gestión avanzado para la pizzería del futuro, con menú interactivo, cobros, devoluciones y control de inventario.",
+  "requestFramePermissions": []
+}
